@@ -1,0 +1,32 @@
+h1 {
+  color: #f6416c;
+  font-size: 2em;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #e3fdfd;
+  color: #2d4059;
+  text-align: left;
+}
+
+ p {
+  font-size: 20px;
+}
+
+
+
+img:hover {
+   background-color: yellow;
+}
+
+
+.Firstemoji {
+  background-color: #512b58;
+}
+
+.Secondemoji {
+  background-color: #2a7886;
+}
